@@ -1,4 +1,4 @@
-FROM fedora:29
+FROM fedora:30
 
 RUN set -ex \
  && echo "Start - $(date  +%Y%m%dZ%H%M%S)" \
